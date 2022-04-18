@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Water#4139",
         "name": "LinMint",
-        "version": "1.0"
+        "version": "1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/HeyAllWaterHere\/aliucord-themes\/main\/Linmint.json"
     },
     "background": {},
     "fonts": {},
