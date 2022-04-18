@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "author": "Water#4139",
+        "name": "LinMint",
+        "version": "1.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -7097229,
+        "background": -13092808,
+        "mention_highlight": -1536324542,
+        "statusbar": -13684945,
+        "background_secondary": -13684945,
+        "active_channel": -7097229
+    },
+    "colors": {
+        "primary_dark_300": -7097229,
+        "primary_dark_200": -1249555,
+        "primary_700_alpha_60": -7097229,
+        "notification_icon_bg_color": -16205035,
+        "primary_dark_400": -7622057,
+        "uikit_btn_bg_color_selector_green": -7097229,
+        "primary_dark_630": -13684945,
+        "primary_630": -12961222,
+        "primary_660": -2499878,
+        "uikit_settings_item_text_color_light": -7097229,
+        "brand_new_560": -7097229,
+        "primary_600": -16205035,
+        "uikit_btn_bg_color_selector_brand": -7622057,
+        "status_grey_200": -7622057,
+        "primary_300": -13684945
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -7097229,
+        "ic_sidebar_notifications_on_dark_24dp": -7097229,
+        "ic_sidebar_pins_off_dark_24dp": -7622057,
+        "ic_sidebar_pins_on_dark_24dp": -7097229,
+        "drawable_button_red": -2351598,
+        "ic_ban_red_24dp": -2351598
+    },
+    "raws": {}
+}
